@@ -3,7 +3,7 @@ kind: BillingPlan
 metadata:
   name: basic
 spec:
-  price: "15.00"
+  price: "20.00"
   currency: USD
   billingPeriod: 30d
   limits:
