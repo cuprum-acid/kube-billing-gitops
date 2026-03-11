@@ -8,8 +8,8 @@ spec:
 
   source:
     repoURL: https://github.com/cuprum-acid/kube-billing-gitops
-    targetRevision: HEAD
-    path: .
+    targetRevision: master
+    path: operator
 
   destination:
     server: https://kubernetes.default.svc
